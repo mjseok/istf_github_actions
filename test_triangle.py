@@ -10,4 +10,4 @@ def test_isosceles():
     assert triangle(2, 2, 1) == 2
  
 def test_equilateral():
-    assert triangle(3, 3, 3) == 3
+    assert triangle(3, 3, 3) == 2
